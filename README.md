@@ -1,5 +1,3 @@
-Dotfiles are managed using [GNU stow][stow]
-
 > [!WARNING]
 > Do not trust anything that is stated here and instead look up how [GNU stow][stow] works :)
 
