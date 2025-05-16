@@ -13,3 +13,19 @@ cd $HOME/dotfiles;
 stow <module> --adopt;
 git reset --hard
 ```
+
+# Module specific
+## zsh
+1. Install [oh-my-zsh][ohmyzsh]: 
+```sh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+```
+2. Use `stow`
+
+
+
+[ohmyzsh]: https://github.com/ohmyzsh/ohmyzsh
+
+# TODO
+* nvim config
+* tmux-sessionizer
