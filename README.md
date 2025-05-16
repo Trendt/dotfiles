@@ -10,5 +10,6 @@ git clone git@github.com:Trendt/dotfiles.git $HOME/dotfiles;
 
 cd $HOME/dotfiles;
 
-stow *
+stow <module> --adopt;
+git reset --hard
 ```

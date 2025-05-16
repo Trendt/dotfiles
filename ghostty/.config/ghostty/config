@@ -1,0 +1,19 @@
+# Run `ghostty +show-config --default --docs` to view a list of the default configurations.
+
+# Window
+window-decoration = false
+window-padding-x = 0
+window-padding-y = 0
+
+# Mouse
+mouse-hide-while-typing = true
+
+# Font and cursor
+font-size = 25
+font-feature = -calt
+cursor-style = block
+
+# Theming
+theme=0x96f
+background-opacity = 0.95
+background-blur = true
