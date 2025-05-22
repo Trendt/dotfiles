@@ -1,7 +1,8 @@
 # Run `ghostty +show-config --default --docs` to view a list of the default configurations.
 
 # Window
-window-decoration = false
+window-theme = ghostty
+window-decoration = none
 window-padding-x = 0
 window-padding-y = 0
 
@@ -15,5 +16,5 @@ cursor-style = block
 
 # Theming
 theme=0x96f
-background-opacity = 0.95
-background-blur = true
+background = #000000
+background-opacity = 0.9
