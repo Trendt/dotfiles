@@ -32,3 +32,5 @@ alias n="nvim ."
 alias lls="ll --sort=size"
 
 alias no="yes n"
+
+alias lg="lazygit"
