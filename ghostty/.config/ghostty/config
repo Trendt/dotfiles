@@ -17,4 +17,4 @@ cursor-style = block
 # Theming
 theme=0x96f
 background = #000000
-background-opacity = 0.9
+background-opacity = 0.7
