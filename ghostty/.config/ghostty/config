@@ -10,11 +10,11 @@ window-padding-y = 0
 mouse-hide-while-typing = true
 
 # Font and cursor
-font-size = 25
+font-size = 20
 font-feature = -calt
 cursor-style = block
 
 # Theming
 theme=0x96f
 background = #000000
-background-opacity = 0.9
+background-opacity = 0.7
