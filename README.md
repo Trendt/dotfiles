@@ -1,7 +1,7 @@
 > [!WARNING]
-> Do not trust anything that is stated here and instead look up how [GNU stow][stow] works :)
+> Do not trust anything that is stated here and instead read [this][article] article by Brandon Invergo :)
 
-[stow]: https://www.gnu.org/software/stow/
+[article]: https://brandon.invergo.net/news/2012-05-26-using-gnu-stow-to-manage-your-dotfiles.html
 
 # Usage:
 
