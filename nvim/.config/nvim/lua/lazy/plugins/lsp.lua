@@ -1,9 +1,8 @@
--- TODO! check
 local lsp_list = {
   "lua_ls",
   "tinymist",
   "rust_analyzer",
-  "clangd",
+  "ast_grep",
 }
 
 return {
@@ -21,6 +20,7 @@ return {
       { "saghen/blink.cmp" },
       { "williamboman/mason.nvim" },
       { "williamboman/mason-lspconfig.nvim" },
+      { "mfussenegger/nvim-jdtls" },
     },
     config = function()
       require("mason").setup()
